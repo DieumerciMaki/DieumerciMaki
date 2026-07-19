@@ -1,7 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
 
-# 📊 GitHub Stats:
+🔭 I’m currently building **[SmartTrade Journal](https://github.com/DieumerciMaki/SmartTrade-Journal)**  
+👯 I’m looking to collaborate on **open-source, web, and automation projects**  
+🤝 I’m looking for help with **DevOps best practices and scalable architecture**  
+🌱 I’m currently learning **Python, JavaScript, DevOps, and software architecture**  
+💬 Ask me about **web development, automation, and my learning journey**  
+⚡ Fun fact: **I learn best by turning ideas into working projects**
+
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.shion.dev/api?username=DieumerciMaki&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DieumerciMaki&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DieumerciMaki&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -16,6 +23,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DieumerciMaki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=DieumerciMaki&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DieumerciMaki&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile views" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
